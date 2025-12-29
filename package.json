@@ -25,6 +25,6 @@
     "nodemon": "^2.0.7",
     "onchange": "6.1.0",
     "snyk": "1.521.0",
-    "socket.io": "^4.0.1"
+    "socket.io": "^4.8.1"
   }
 }
